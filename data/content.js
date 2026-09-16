@@ -195,18 +195,18 @@ window.SITE_CONTENT = {
    "sub": "And growing..."
   },
   {
-   "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><circle cx=\"12\" cy=\"7.5\" r=\"4.2\"></circle><path d=\"M4 20.5c0-4 3.6-6.4 8-6.4s8 2.4 8 6.4Z\"></path></svg>",
-   "value": "5",
-   "suffix": "+",
-   "label": "Years",
-   "sub": "Training Experience"
-  },
-  {
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M10 2.6 8.6 4.9a6 6 0 0 0-1.5.6L4.6 4.7 2.8 7.8l2 1.6a6 6 0 0 0 0 1.6l-2 1.6 1.8 3.1 2.5-.8a6 6 0 0 0 1.5.6L10 17.8h3.2l.6-2.3a6 6 0 0 0 1.5-.6l2.5.8 1.8-3.1-2-1.6a6 6 0 0 0 0-1.6l2-1.6-1.8-3.1-2.5.8a6 6 0 0 0-1.5-.6L13.2 2.6Zm1.6 5.2a3 3 0 1 1 0 6 3 3 0 0 1 0-6Z\"></path><path d=\"M17.8 17.2a2.6 2.6 0 1 1 0 5.2 2.6 2.6 0 0 1 0-5.2Z\"></path></svg>",
    "value": "Multiple",
    "suffix": "",
    "label": "Technologies",
    "sub": "From hardware to software"
+  },
+  {
+   "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><circle cx=\"12\" cy=\"7.5\" r=\"4.2\"></circle><path d=\"M4 20.5c0-4 3.6-6.4 8-6.4s8 2.4 8 6.4Z\"></path></svg>",
+   "value": "5",
+   "suffix": "+",
+   "label": "Years",
+   "sub": "Training Experience"
   },
   {
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M12 3 1.5 8.5 12 14l8.5-4.45V16h2V8.5Z\"></path><path d=\"M5.5 12.2v3.6c0 1.9 2.9 3.7 6.5 3.7s6.5-1.8 6.5-3.7v-3.6L12 15.6Z\"></path></svg>",
@@ -262,24 +262,6 @@ window.SITE_CONTENT = {
   "github": "#"
  },
  "projects": [
-  {
-   "id": "humanoid-robot-nikki",
-   "title": "Humanoid Robot (Nikki)",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "AI | Robotics | Human Interaction",
-   "featured": true,
-   "cover": "assets/img/project-nikki.webp",
-   "summary": "A humanoid robot built for natural human interaction.",
-   "date": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
   {
    "id": "water-bottle-filling-system",
    "title": "Fully Automatic Water Bottle Filling System",
@@ -362,6 +344,24 @@ window.SITE_CONTENT = {
    "featured": true,
    "cover": "illustration:dashboard",
    "summary": "A software dashboard for live monitoring and control of connected devices.",
+   "date": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "humanoid-robot-nikki",
+   "title": "Humanoid Robot (Nikki)",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "AI | Robotics | Human Interaction",
+   "featured": true,
+   "cover": "assets/img/project-nikki.webp",
+   "summary": "A humanoid robot built for natural human interaction.",
    "date": "",
    "description": "",
    "highlights": [],
