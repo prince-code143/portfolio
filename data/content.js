@@ -21,7 +21,7 @@ window.SITE_CONTENT = {
   "linkedinUrl": "https://linkedin.com/in/prince-sukhwal-b41355315",
   "primaryLabel": "View My Projects",
   "resumeLabel": "Download Resume",
-  "resumeUrl": "",
+  "resumeUrl": "assets/uploads/prince-sukhwal-resume-mu4h6ccjl44.pdf",
   "background": "assets/img/hero-bg.webp",
   "photo": "assets/img/hero-person.webp",
   "quote": "Technology is more powerful when it improves people's everyday lives.",
@@ -61,52 +61,52 @@ window.SITE_CONTENT = {
  },
  "skills": [
   {
-   "name": "PID\nControl",
-   "icon": "<svg class=\"ico-pid\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><path d=\"M5.5 5.5v13h13\" stroke=\"#9fc4ea\" stroke-linecap=\"round\" stroke-width=\"1.1\"></path><path d=\"M6.5 9.5h12\" stroke=\"#0d63b8\" stroke-dasharray=\"1.5 1.3\" stroke-width=\"1\"></path><path class=\"pid-cv\" d=\"M6 17.5C8.4 17.5 8.6 6.6 10.8 7c2 .4 1.8 3.6 3.6 3.2 1.6-.4 1.8-.8 4.1-.7\" pathLength=\"1\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"1.7\"></path><circle class=\"pid-dot\" cx=\"18.5\" cy=\"9.5\" fill=\"#2f9bf5\" r=\"1.3\"></circle></svg>"
+   "name": "Microcontrollers",
+   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#0f2b4a\" height=\"10\" rx=\"1.6\" width=\"10\" x=\"7\" y=\"7\"></rect><rect fill=\"#2f9bf5\" height=\"4.8\" rx=\"1\" width=\"4.8\" x=\"9.6\" y=\"9.6\"></rect><path d=\"M9.5 4.5v2.4M14.5 4.5v2.4M9.5 17.1v2.4M14.5 17.1v2.4M4.5 9.5h2.4M4.5 14.5h2.4M17.1 9.5h2.4M17.1 14.5h2.4\" stroke=\"#0f2b4a\" stroke-linecap=\"round\" stroke-width=\"1.5\"></path></svg>"
   },
   {
    "name": "Robotic Arm",
    "icon": "<svg class=\"ico-arm\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><path d=\"M5.5 19.5h10\" stroke=\"#0f2b4a\" stroke-linecap=\"round\" stroke-width=\"1.6\"></path><rect fill=\"#0d63b8\" height=\"3.2\" rx=\"1\" width=\"6.2\" x=\"7.4\" y=\"16.3\"></rect><g class=\"arm-a\"><path d=\"M10.5 16.3 8.4 10.2\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"2.6\"></path><g class=\"arm-b\"><path d=\"m8.4 10.2 6.8-2.6\" stroke=\"#2f9bf5\" stroke-linecap=\"round\" stroke-width=\"2.3\"></path><path d=\"m15.2 7.6 2.3-1.1m-2.3 1.1 1.5 2.1\" stroke=\"#0f2b4a\" stroke-linecap=\"round\" stroke-width=\"1.4\"></path><circle cx=\"8.4\" cy=\"10.2\" fill=\"#0f2b4a\" r=\"1.5\"></circle></g><circle cx=\"10.5\" cy=\"16.3\" fill=\"#0f2b4a\" r=\"1.6\"></circle></g></svg>"
   },
   {
-   "name": "HMI\nProgramming",
-   "icon": "<svg class=\"ico-hmi\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#0f2b4a\" height=\"15.6\" rx=\"2\" width=\"16\" x=\"4\" y=\"4.2\"></rect><rect fill=\"#cfe6fb\" height=\"8\" rx=\"1\" width=\"13\" x=\"5.5\" y=\"5.7\"></rect><path d=\"M8.3 12.6a3.7 3.7 0 0 1 7.4 0\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"1.4\"></path><path class=\"hmi-n\" d=\"M12 12.6 13.9 9.9\" stroke=\"#0d63b8\" stroke-linecap=\"round\" stroke-width=\"1.2\"></path><circle cx=\"12\" cy=\"12.6\" fill=\"#0d63b8\" r=\".9\"></circle><circle cx=\"8\" cy=\"16.8\" fill=\"#16b364\" r=\"1.25\"></circle><circle cx=\"12\" cy=\"16.8\" fill=\"#f5a623\" r=\"1.25\"></circle><circle class=\"hmi-b\" cx=\"16\" cy=\"16.8\" fill=\"#e5484d\" r=\"1.25\"></circle></svg>"
-  },
-  {
-   "name": "SCADA",
-   "icon": "<svg class=\"ico-scada\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#1a7fe0\" height=\"9.6\" rx=\"1.5\" width=\"15\" x=\"4.5\" y=\"3.8\"></rect><rect fill=\"#0f2b4a\" height=\"7\" rx=\".8\" width=\"12.4\" x=\"5.8\" y=\"5.1\"></rect><path class=\"sc-t\" d=\"m6.8 10.6 2.3-2 1.9 1.3 2.5-2.9 1.9 1.5 1.8-1.2\" pathLength=\"1\" stroke=\"#7cc4ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\"></path><path d=\"M12 13.4V17.3M6 17.3h12\" stroke=\"#1a7fe0\" stroke-width=\"1.2\"></path><rect fill=\"#0d63b8\" height=\"2.6\" rx=\".6\" width=\"2.6\" x=\"4.7\" y=\"16\"></rect><rect fill=\"#0d63b8\" height=\"2.6\" rx=\".6\" width=\"2.6\" x=\"10.7\" y=\"16\"></rect><rect fill=\"#0d63b8\" height=\"2.6\" rx=\".6\" width=\"2.6\" x=\"16.7\" y=\"16\"></rect><circle class=\"sc-d\" cx=\"6\" cy=\"17.3\" fill=\"#7cc4ff\" r=\".9\"></circle></svg>"
-  },
-  {
-   "name": "PLC\nProgramming",
-   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#0d63b8\" height=\"13\" rx=\"2\" width=\"13\" x=\"5.5\" y=\"5.5\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"7.4\" y=\"7.4\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"12.8\" y=\"7.4\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"7.4\" y=\"12.8\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"12.8\" y=\"12.8\"></rect></svg>"
-  },
-  {
-   "name": "Python",
-   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M11.9 2c-2.6 0-4.4.9-4.4 3v2.3h4.6v.8H5.6C3.5 8.1 2 9.6 2 12.3s1.4 4.2 3.5 4.2h1.6v-2.6c0-2 1.6-3.6 3.6-3.6h4.5c1.8 0 3.2-1.4 3.2-3.2V5c0-1.9-1.7-3-4.5-3Zm-2.5 1.5a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8Z\" fill=\"#3572A5\"></path><path d=\"M12.1 22c2.6 0 4.4-.9 4.4-3v-2.3h-4.6v-.8h6.5c2.1 0 3.6-1.5 3.6-4.2s-1.4-4.2-3.5-4.2h-1.6v2.6c0 2-1.6 3.6-3.6 3.6H8.8c-1.8 0-3.2 1.4-3.2 3.2V19c0 1.9 1.7 3 4.5 3Zm2.5-1.5a.9.9 0 1 1 0-1.8.9.9 0 0 1 0 1.8Z\" fill=\"#FFD43B\"></path></svg>"
-  },
-  {
-   "name": "Mobile App\nDevelopment",
-   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#fff\" height=\"15\" rx=\"2\" stroke=\"#1a7fe0\" stroke-width=\"1.5\" width=\"8\" x=\"8\" y=\"4.5\"></rect><path d=\"M10.8 17h2.4\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"1.4\"></path></svg>"
-  },
-  {
-   "name": "OpenCV",
-   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><circle cx=\"12\" cy=\"6.6\" fill=\"none\" r=\"4\" stroke=\"#e53935\" stroke-width=\"3.1\"></circle><circle cx=\"7.6\" cy=\"15.4\" fill=\"none\" r=\"4\" stroke=\"#43a047\" stroke-width=\"3.1\"></circle><circle cx=\"16.4\" cy=\"15.4\" fill=\"none\" r=\"4\" stroke=\"#1e88e5\" stroke-width=\"3.1\"></circle></svg>"
+   "name": "Arduino",
+   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><circle cx=\"8\" cy=\"12\" fill=\"none\" r=\"3.6\" stroke=\"#00979d\" stroke-width=\"1.7\"></circle><circle cx=\"16\" cy=\"12\" fill=\"none\" r=\"3.6\" stroke=\"#00979d\" stroke-width=\"1.7\"></circle><path d=\"M6.4 12h3.2M14.4 12h3.2M16 10.4v3.2\" stroke=\"#00979d\" stroke-linecap=\"round\" stroke-width=\"1.5\"></path></svg>"
   },
   {
    "name": "C++",
    "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"m12 2.6 8.2 4.7v9.4L12 21.4 3.8 16.7V7.3Z\" fill=\"#1a7fe0\"></path><path d=\"M14.6 9.4a4 4 0 1 0 0 5.2\" fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-width=\"1.7\"></path></svg>"
   },
   {
-   "name": "Arduino",
-   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><circle cx=\"8\" cy=\"12\" fill=\"none\" r=\"3.6\" stroke=\"#00979d\" stroke-width=\"1.7\"></circle><circle cx=\"16\" cy=\"12\" fill=\"none\" r=\"3.6\" stroke=\"#00979d\" stroke-width=\"1.7\"></circle><path d=\"M6.4 12h3.2M14.4 12h3.2M16 10.4v3.2\" stroke=\"#00979d\" stroke-linecap=\"round\" stroke-width=\"1.5\"></path></svg>"
-  },
-  {
-   "name": "Microcontrollers",
-   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#0f2b4a\" height=\"10\" rx=\"1.6\" width=\"10\" x=\"7\" y=\"7\"></rect><rect fill=\"#2f9bf5\" height=\"4.8\" rx=\"1\" width=\"4.8\" x=\"9.6\" y=\"9.6\"></rect><path d=\"M9.5 4.5v2.4M14.5 4.5v2.4M9.5 17.1v2.4M14.5 17.1v2.4M4.5 9.5h2.4M4.5 14.5h2.4M17.1 9.5h2.4M17.1 14.5h2.4\" stroke=\"#0f2b4a\" stroke-linecap=\"round\" stroke-width=\"1.5\"></path></svg>"
-  },
-  {
    "name": "Internet of\nThings (IoT)",
    "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M6.6 18.4A4.2 4.2 0 0 1 7.2 10a5.4 5.4 0 0 1 10.3-1A3.9 3.9 0 0 1 18 18.4Z\" fill=\"#dbeeff\" stroke=\"#1a7fe0\" stroke-width=\"1.5\"></path><circle cx=\"12\" cy=\"13.4\" fill=\"#1a7fe0\" r=\"1.5\"></circle></svg>"
+  },
+  {
+   "name": "Python",
+   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M11.9 2c-2.6 0-4.4.9-4.4 3v2.3h4.6v.8H5.6C3.5 8.1 2 9.6 2 12.3s1.4 4.2 3.5 4.2h1.6v-2.6c0-2 1.6-3.6 3.6-3.6h4.5c1.8 0 3.2-1.4 3.2-3.2V5c0-1.9-1.7-3-4.5-3Zm-2.5 1.5a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8Z\" fill=\"#3572A5\"></path><path d=\"M12.1 22c2.6 0 4.4-.9 4.4-3v-2.3h-4.6v-.8h6.5c2.1 0 3.6-1.5 3.6-4.2s-1.4-4.2-3.5-4.2h-1.6v2.6c0 2-1.6 3.6-3.6 3.6H8.8c-1.8 0-3.2 1.4-3.2 3.2V19c0 1.9 1.7 3 4.5 3Zm2.5-1.5a.9.9 0 1 1 0-1.8.9.9 0 0 1 0 1.8Z\" fill=\"#FFD43B\"></path></svg>"
+  },
+  {
+   "name": "OpenCV",
+   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><circle cx=\"12\" cy=\"6.6\" fill=\"none\" r=\"4\" stroke=\"#e53935\" stroke-width=\"3.1\"></circle><circle cx=\"7.6\" cy=\"15.4\" fill=\"none\" r=\"4\" stroke=\"#43a047\" stroke-width=\"3.1\"></circle><circle cx=\"16.4\" cy=\"15.4\" fill=\"none\" r=\"4\" stroke=\"#1e88e5\" stroke-width=\"3.1\"></circle></svg>"
+  },
+  {
+   "name": "PID\nControl",
+   "icon": "<svg class=\"ico-pid\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><path d=\"M5.5 5.5v13h13\" stroke=\"#9fc4ea\" stroke-linecap=\"round\" stroke-width=\"1.1\"></path><path d=\"M6.5 9.5h12\" stroke=\"#0d63b8\" stroke-dasharray=\"1.5 1.3\" stroke-width=\"1\"></path><path class=\"pid-cv\" d=\"M6 17.5C8.4 17.5 8.6 6.6 10.8 7c2 .4 1.8 3.6 3.6 3.2 1.6-.4 1.8-.8 4.1-.7\" pathLength=\"1\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"1.7\"></path><circle class=\"pid-dot\" cx=\"18.5\" cy=\"9.5\" fill=\"#2f9bf5\" r=\"1.3\"></circle></svg>"
+  },
+  {
+   "name": "ROS/ROS 2",
+   "icon": "<svg class=\"ico-scada\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#1a7fe0\" height=\"9.6\" rx=\"1.5\" width=\"15\" x=\"4.5\" y=\"3.8\"></rect><rect fill=\"#0f2b4a\" height=\"7\" rx=\".8\" width=\"12.4\" x=\"5.8\" y=\"5.1\"></rect><path class=\"sc-t\" d=\"m6.8 10.6 2.3-2 1.9 1.3 2.5-2.9 1.9 1.5 1.8-1.2\" pathLength=\"1\" stroke=\"#7cc4ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.1\"></path><path d=\"M12 13.4V17.3M6 17.3h12\" stroke=\"#1a7fe0\" stroke-width=\"1.2\"></path><rect fill=\"#0d63b8\" height=\"2.6\" rx=\".6\" width=\"2.6\" x=\"4.7\" y=\"16\"></rect><rect fill=\"#0d63b8\" height=\"2.6\" rx=\".6\" width=\"2.6\" x=\"10.7\" y=\"16\"></rect><rect fill=\"#0d63b8\" height=\"2.6\" rx=\".6\" width=\"2.6\" x=\"16.7\" y=\"16\"></rect><circle class=\"sc-d\" cx=\"6\" cy=\"17.3\" fill=\"#7cc4ff\" r=\".9\"></circle></svg>"
+  },
+  {
+   "name": "HMI\nProgramming",
+   "icon": "<svg class=\"ico-hmi\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#0f2b4a\" height=\"15.6\" rx=\"2\" width=\"16\" x=\"4\" y=\"4.2\"></rect><rect fill=\"#cfe6fb\" height=\"8\" rx=\"1\" width=\"13\" x=\"5.5\" y=\"5.7\"></rect><path d=\"M8.3 12.6a3.7 3.7 0 0 1 7.4 0\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"1.4\"></path><path class=\"hmi-n\" d=\"M12 12.6 13.9 9.9\" stroke=\"#0d63b8\" stroke-linecap=\"round\" stroke-width=\"1.2\"></path><circle cx=\"12\" cy=\"12.6\" fill=\"#0d63b8\" r=\".9\"></circle><circle cx=\"8\" cy=\"16.8\" fill=\"#16b364\" r=\"1.25\"></circle><circle cx=\"12\" cy=\"16.8\" fill=\"#f5a623\" r=\"1.25\"></circle><circle class=\"hmi-b\" cx=\"16\" cy=\"16.8\" fill=\"#e5484d\" r=\"1.25\"></circle></svg>"
+  },
+  {
+   "name": "PLC\nProgramming",
+   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#0d63b8\" height=\"13\" rx=\"2\" width=\"13\" x=\"5.5\" y=\"5.5\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"7.4\" y=\"7.4\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"12.8\" y=\"7.4\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"7.4\" y=\"12.8\"></rect><rect fill=\"#9fd0f7\" height=\"3.6\" rx=\".8\" width=\"3.6\" x=\"12.8\" y=\"12.8\"></rect></svg>"
+  },
+  {
+   "name": "Mobile App\nDevelopment",
+   "icon": "<svg height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><rect fill=\"#e8f2fd\" height=\"20\" rx=\"4\" width=\"20\" x=\"2\" y=\"2\"></rect><rect fill=\"#fff\" height=\"15\" rx=\"2\" stroke=\"#1a7fe0\" stroke-width=\"1.5\" width=\"8\" x=\"8\" y=\"4.5\"></rect><path d=\"M10.8 17h2.4\" stroke=\"#1a7fe0\" stroke-linecap=\"round\" stroke-width=\"1.4\"></path></svg>"
   }
  ],
  "sections": {
@@ -195,13 +195,6 @@ window.SITE_CONTENT = {
    "sub": "And growing..."
   },
   {
-   "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M10 2.6 8.6 4.9a6 6 0 0 0-1.5.6L4.6 4.7 2.8 7.8l2 1.6a6 6 0 0 0 0 1.6l-2 1.6 1.8 3.1 2.5-.8a6 6 0 0 0 1.5.6L10 17.8h3.2l.6-2.3a6 6 0 0 0 1.5-.6l2.5.8 1.8-3.1-2-1.6a6 6 0 0 0 0-1.6l2-1.6-1.8-3.1-2.5.8a6 6 0 0 0-1.5-.6L13.2 2.6Zm1.6 5.2a3 3 0 1 1 0 6 3 3 0 0 1 0-6Z\"></path><path d=\"M17.8 17.2a2.6 2.6 0 1 1 0 5.2 2.6 2.6 0 0 1 0-5.2Z\"></path></svg>",
-   "value": "Multiple",
-   "suffix": "",
-   "label": "Technologies",
-   "sub": "From hardware to software"
-  },
-  {
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><circle cx=\"12\" cy=\"7.5\" r=\"4.2\"></circle><path d=\"M4 20.5c0-4 3.6-6.4 8-6.4s8 2.4 8 6.4Z\"></path></svg>",
    "value": "5",
    "suffix": "+",
@@ -214,12 +207,19 @@ window.SITE_CONTENT = {
    "suffix": "+",
    "label": "Students Trained",
    "sub": "& Happy Customers"
+  },
+  {
+   "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M10 2.6 8.6 4.9a6 6 0 0 0-1.5.6L4.6 4.7 2.8 7.8l2 1.6a6 6 0 0 0 0 1.6l-2 1.6 1.8 3.1 2.5-.8a6 6 0 0 0 1.5.6L10 17.8h3.2l.6-2.3a6 6 0 0 0 1.5-.6l2.5.8 1.8-3.1-2-1.6a6 6 0 0 0 0-1.6l2-1.6-1.8-3.1-2.5.8a6 6 0 0 0-1.5-.6L13.2 2.6Zm1.6 5.2a3 3 0 1 1 0 6 3 3 0 0 1 0-6Z\"></path><path d=\"M17.8 17.2a2.6 2.6 0 1 1 0 5.2 2.6 2.6 0 0 1 0-5.2Z\"></path></svg>",
+   "value": "Multiple",
+   "suffix": "",
+   "label": "Technologies",
+   "sub": "From hardware to software"
   }
  ],
  "contact": {
   "email": "sukhwalprince3@gmail.com",
   "location": "Bhilwara, Rajasthan, India",
-  "formEndpoint": "",
+  "formEndpoint": "https://share.google/buepuR97l31ofq8RP",
   "topics": [
    {
     "label": "Home Automation",
@@ -228,6 +228,10 @@ window.SITE_CONTENT = {
    {
     "label": "Robotics Project",
     "icon": "<svg fill=\"currentColor\" height=\"14\" viewBox=\"0 0 24 24\" width=\"14\"><path d=\"M12 1.5a1 1 0 0 1 1 1V4h2.5A3.5 3.5 0 0 1 19 7.5v8a3.5 3.5 0 0 1-3.5 3.5h-7A3.5 3.5 0 0 1 5 15.5v-8A3.5 3.5 0 0 1 8.5 4H11V2.5a1 1 0 0 1 1-1ZM9.2 9.4a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Zm5.6 0a1.6 1.6 0 1 0 0 3.2 1.6 1.6 0 0 0 0-3.2Z\"></path></svg>"
+   },
+   {
+    "label": "Collaboration",
+    "icon": "<svg fill=\"currentColor\" height=\"14\" viewBox=\"0 0 24 24\" width=\"14\"><circle cx=\"8\" cy=\"8\" r=\"3\"></circle><circle cx=\"16\" cy=\"9\" r=\"2.6\"></circle><path d=\"M2.5 19c0-2.5 2.7-4 5.5-4s5.5 1.5 5.5 4Zm10.6 0c-.2-1.6-1-2.8-2.2-3.6a7 7 0 0 1 2.6-.4c2.6 0 5 1.4 5 4Z\"></path></svg>"
    },
    {
     "label": "Training & Workshop",
@@ -246,22 +250,82 @@ window.SITE_CONTENT = {
     "icon": "<svg fill=\"currentColor\" height=\"14\" viewBox=\"0 0 24 24\" width=\"14\"><rect height=\"14\" rx=\"2.4\" width=\"20\" x=\"2\" y=\"4\"></rect><path d=\"M9 8.4 6 11.4l3 3 1.3-1.3-1.7-1.7 1.7-1.7Zm6 0-1.3 1.3 1.7 1.7-1.7 1.7L15 14.4l3-3Z\" fill=\"#fff\"></path></svg>"
    },
    {
-    "label": "Collaboration",
-    "icon": "<svg fill=\"currentColor\" height=\"14\" viewBox=\"0 0 24 24\" width=\"14\"><circle cx=\"8\" cy=\"8\" r=\"3\"></circle><circle cx=\"16\" cy=\"9\" r=\"2.6\"></circle><path d=\"M2.5 19c0-2.5 2.7-4 5.5-4s5.5 1.5 5.5 4Zm10.6 0c-.2-1.6-1-2.8-2.2-3.6a7 7 0 0 1 2.6-.4c2.6 0 5 1.4 5 4Z\"></path></svg>"
-   },
-   {
     "label": "Something else",
     "icon": "<svg fill=\"currentColor\" height=\"14\" viewBox=\"0 0 24 24\" width=\"14\"><circle cx=\"5.5\" cy=\"12\" r=\"2\"></circle><circle cx=\"12\" cy=\"12\" r=\"2\"></circle><circle cx=\"18.5\" cy=\"12\" r=\"2\"></circle></svg>"
    }
   ]
  },
  "socials": {
-  "linkedin": "https://linkedin.com/in/prince-sukhwal-b41355315",
-  "youtube": "#",
-  "instagram": "#",
-  "github": "#"
+  "linkedin": "https://www.linkedin.com/in/prince-sukhwal-b41355315?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  "youtube": "https://youtube.com/@g_home_automation?si=WwulQaa_RT3yAafQ",
+  "instagram": "https://www.instagram.com/the_prince_sukhwal?stkn=MWZoaXh1MWlndTBoMg==",
+  "github": "https://github.com/prince-code143/portfolio.git"
  },
  "projects": [
+  {
+   "id": "humanoid-robot-nikki",
+   "title": "Humanoid Robot (Nikki)",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "AI | Robotics | Human Interaction",
+   "featured": true,
+   "cover": "assets/img/project-nikki.webp",
+   "summary": "A humanoid robot built for natural human interaction.",
+   "date": "2025",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gotya5ye.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotya5ye-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gou41b1o.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gou41b1o-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gouoinln.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouoinln-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4goutlkec.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4goutlkec-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/F4oDHKbhNaI?feature=share",
+     "title": "robot shorts"
+    }
+   ],
+   "links": []
+  },
   {
    "id": "water-bottle-filling-system",
    "title": "Fully Automatic Water Bottle Filling System",
@@ -344,24 +408,6 @@ window.SITE_CONTENT = {
    "featured": true,
    "cover": "illustration:dashboard",
    "summary": "A software dashboard for live monitoring and control of connected devices.",
-   "date": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "humanoid-robot-nikki",
-   "title": "Humanoid Robot (Nikki)",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "AI | Robotics | Human Interaction",
-   "featured": true,
-   "cover": "assets/img/project-nikki.webp",
-   "summary": "A humanoid robot built for natural human interaction.",
    "date": "",
    "description": "",
    "highlights": [],
