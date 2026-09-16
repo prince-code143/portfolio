@@ -278,6 +278,16 @@ window.SITE_CONTENT = {
    "tech": [],
    "gallery": [
     {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4goutlkec.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4goutlkec-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd-t.webp",
+     "caption": ""
+    },
+    {
      "src": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi.webp",
      "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi-t.webp",
      "caption": ""
@@ -298,11 +308,6 @@ window.SITE_CONTENT = {
      "caption": ""
     },
     {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4goutlkec.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4goutlkec-t.webp",
-     "caption": ""
-    },
-    {
      "src": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d.webp",
      "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d-t.webp",
      "caption": ""
@@ -310,11 +315,6 @@ window.SITE_CONTENT = {
     {
      "src": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7.webp",
      "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd-t.webp",
      "caption": ""
     }
    ],
