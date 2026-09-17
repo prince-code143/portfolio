@@ -311,11 +311,6 @@ window.SITE_CONTENT = {
      "src": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d.webp",
      "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d-t.webp",
      "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7-t.webp",
-     "caption": ""
     }
    ],
    "videos": [
