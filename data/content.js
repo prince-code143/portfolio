@@ -259,7 +259,7 @@ window.SITE_CONTENT = {
   "linkedin": "https://www.linkedin.com/in/prince-sukhwal-b41355315?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   "youtube": "https://youtube.com/@g_home_automation?si=WwulQaa_RT3yAafQ",
   "instagram": "https://www.instagram.com/the_prince_sukhwal?stkn=MWZoaXh1MWlndTBoMg==",
-  "github": "https://github.com/prince-code143/portfolio.git"
+  "github": "https://github.com/prince-code143/"
  },
  "projects": [
   {
