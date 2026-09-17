@@ -376,7 +376,12 @@ window.SITE_CONTENT = {
      "caption": ""
     }
    ],
-   "videos": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/2nGssBb2gQA?si=hihD7SqN9L5Rk0Ff",
+     "title": "water level controller"
+    }
+   ],
    "links": []
   },
   {
