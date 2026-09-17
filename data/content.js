@@ -369,7 +369,13 @@ window.SITE_CONTENT = {
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/water-level-controller-mu5dg4apq14.webp",
+     "thumb": "assets/uploads/water-level-controller-mu5dg4apq14-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [],
    "links": []
   },
