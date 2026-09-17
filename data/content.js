@@ -270,7 +270,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "AI | Robotics | Human Interaction",
    "featured": true,
-   "cover": "assets/uploads/humanoid-robot-nikki-mu4gp3r0bl7.webp",
+   "cover": "assets/uploads/humanoid-robot-nikki-cover-mu55cxj8j55.webp",
    "summary": "A humanoid robot built for natural human interaction.",
    "date": "2025",
    "description": "",
@@ -333,7 +333,7 @@ window.SITE_CONTENT = {
     "robotics"
    ],
    "tags": "Automation | PLC | Sensors",
-   "featured": false,
+   "featured": true,
    "cover": "assets/img/project-bottle-filling.webp",
    "summary": "A PLC and sensor driven bottle filling line that runs without manual steps.",
    "date": "",
