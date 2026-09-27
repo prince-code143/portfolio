@@ -263,6 +263,44 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "wro-2026-udms",
+   "title": "WRO 2026 (UDMS)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "wro-2026-hero",
+   "title": "WRO 2026 (Hero)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "humanoid-robot-nikki",
    "title": "Humanoid Robot (Nikki)",
    "categories": [
