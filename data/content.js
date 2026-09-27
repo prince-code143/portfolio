@@ -263,6 +263,97 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "new-project-utg1",
+   "title": "New project",
+   "categories": [],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "sangam-university-open-robotic-competition",
+   "title": "Sangam University(Open Robotic Competition)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "google-office-multi-level-farming-project",
+   "title": "Google Office (Multi Level Farming project)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "wro-2024-smart-irrigation-system",
+   "title": "WRO 2024 (Smart irrigation system)",
+   "categories": [],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "wro-2025-marshal-green-house",
+   "title": "WRO 2025 (Marshal green house)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "wro-2026-udms",
    "title": "WRO 2026 (UDMS)",
    "categories": [
