@@ -263,122 +263,8 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
-   "id": "wro-national-championship-2025-marshal-green-house",
-   "title": "WRO National Championship 2025 (Marshal green house)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "wro-national-championship-2026-protector-of-heritage-sites",
    "title": "WRO National Championship 2026 (Protector of Heritage Sites)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "new-project-utg1",
-   "title": "WRO National Championship 2026 (Museum Story Teller)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "sangam-university-open-robotic-competition",
-   "title": "Sangam University(Open Robotic Competition)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "google-office-multi-level-farming-project",
-   "title": "Google Office (Multi Level Farming project)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "wro-2024-smart-irrigation-system",
-   "title": "WRO Regional Championship 2024 (Smart irrigation system)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "wro-2025-marshal-green-house",
-   "title": "WRO Regional Championship 2025 (Marshal green house)",
    "categories": [
     "competitions"
    ],
@@ -415,8 +301,122 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
+   "id": "new-project-utg1",
+   "title": "WRO National Championship 2026 (Museum Story Teller)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "wro-2026-hero",
    "title": "WRO Regional Championship 2026 (Museum Story Teller)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "wro-national-championship-2025-marshal-green-house",
+   "title": "WRO National Championship 2025 (Marshal green house)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "wro-2025-marshal-green-house",
+   "title": "WRO Regional Championship 2025 (Marshal green house)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "wro-2024-smart-irrigation-system",
+   "title": "WRO Regional Championship 2024 (Smart irrigation system)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "google-office-multi-level-farming-project",
+   "title": "Google Office (Multi Level Farming project)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "sangam-university-open-robotic-competition",
+   "title": "Sangam University(Open Robotic Competition)",
    "categories": [
     "competitions"
    ],
