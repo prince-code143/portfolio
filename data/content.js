@@ -263,6 +263,25 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "wro-national-championship-2026-protector-of-heritage-sites",
+   "title": "WRO National Championship 2026 (Protector of Heritage Sites)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "new-project-utg1",
    "title": "WRO National Championship 2026 (Museum Story Teller)",
    "categories": [
