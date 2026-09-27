@@ -263,25 +263,6 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
-   "id": "wro-national-championship-2026-museum-story-teller",
-   "title": "WRO National Championship 2026 (Museum Story Teller)",
-   "categories": [
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "new-project-utg1",
    "title": "WRO National Championship 2026 (Museum Story Teller)",
    "categories": [
