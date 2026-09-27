@@ -263,9 +263,30 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "wro-national-championship-2026-museum-story-teller",
+   "title": "WRO National Championship 2026 (Museum Story Teller)",
+   "categories": [
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "new-project-utg1",
-   "title": "New project",
-   "categories": [],
+   "title": "WRO National Championship 2026 (Museum Story Teller)",
+   "categories": [
+    "competitions"
+   ],
    "tags": "",
    "featured": false,
    "cover": "",
@@ -319,8 +340,10 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-2024-smart-irrigation-system",
-   "title": "WRO 2024 (Smart irrigation system)",
-   "categories": [],
+   "title": "WRO Regional Championship 2024 (Smart irrigation system)",
+   "categories": [
+    "competitions"
+   ],
    "tags": "",
    "featured": false,
    "cover": "",
@@ -336,7 +359,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-2025-marshal-green-house",
-   "title": "WRO 2025 (Marshal green house)",
+   "title": "WRO Regional Championship 2025 (Marshal green house)",
    "categories": [
     "competitions"
    ],
@@ -355,7 +378,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-2026-udms",
-   "title": "WRO 2026 (UDMS)",
+   "title": "WRO Regional Championship 2026 (Protector of Heritage Sites)",
    "categories": [
     "competitions"
    ],
@@ -374,7 +397,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-2026-hero",
-   "title": "WRO 2026 (Hero)",
+   "title": "WRO Regional Championship 2026 (Museum Story Teller)",
    "categories": [
     "competitions"
    ],
