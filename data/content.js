@@ -271,25 +271,6 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
-   "id": "kinetic-wall-project",
-   "title": "Kinetic Wall Project  ",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "",
-   "featured": true,
-   "cover": "assets/uploads/kinetic-wall-project-cover-mulogbdr3ws.webp",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "nimo-labs-india-pvt-ltd",
    "title": "Nimo Labs India PVT  LTD",
    "categories": [
@@ -571,6 +552,25 @@ window.SITE_CONTENT = {
      "caption": ""
     }
    ],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "kinetic-wall-project",
+   "title": "Kinetic Wall Project  ",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": true,
+   "cover": "assets/uploads/kinetic-wall-project-cover-mulomsh2pgm.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
    "videos": [],
    "links": []
   },
