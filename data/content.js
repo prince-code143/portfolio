@@ -140,7 +140,7 @@ window.SITE_CONTENT = {
   {
    "id": "robotics",
    "name": "Robotics Projects",
-   "subtitle": "12+ Projects",
+   "subtitle": "20+ Projects",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><circle cx=\"18\" cy=\"6\" r=\"2.6\"></circle><circle cx=\"12.4\" cy=\"10.4\" r=\"2\"></circle><path d=\"M4 20h9v-1.6a4.5 4.5 0 0 0-9 0Zm4.5-4.4 3.2-3.6 1.6 1.4-3.2 3.6Z\"></path><path d=\"M6.5 20h4v1.6h-4Z\"></path></svg>"
   },
   {
@@ -534,7 +534,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": true,
-   "cover": "assets/uploads/kinetic-wall-project-cover-mulomsh2pgm.webp",
+   "cover": "assets/uploads/kinetic-wall-project-cover-mulpefbszcl.webp",
    "summary": "",
    "date": "",
    "role": "",
