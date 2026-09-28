@@ -174,7 +174,7 @@ window.SITE_CONTENT = {
    "role": "Robotics Trainer",
    "current": true,
    "period": "May 2024 - Present (2 years 5 months)",
-   "location": "Udaipur",
+   "location": "Udaipur , Rajasthan (India)",
    "logo": "assets/img/logo-nimo.webp"
   },
   {
@@ -182,7 +182,7 @@ window.SITE_CONTENT = {
    "role": "Contract  Engineer",
    "current": false,
    "period": "February 2024 - may 2024 (3 months)",
-   "location": "Nathdwara ,Udaipur(raj.)",
+   "location": "Nathdwara ,Udaipur ,Rajasthan (India)",
    "logo": "assets/uploads/logo-muljvoyfijl.webp"
   },
   {
@@ -190,7 +190,7 @@ window.SITE_CONTENT = {
    "role": "Director",
    "current": false,
    "period": "March 2021 - February 2024 (3 years)",
-   "location": "Bhilwara",
+   "location": "Bhilwara , Rajasthan (India)",
    "logo": "assets/img/logo-gorgeous.webp"
   }
  ],
