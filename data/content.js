@@ -556,24 +556,6 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
-   "id": "industrial-robotic-arm",
-   "title": "Industrial Robotic ARM",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "Control | Kinematics | Embedded",
-   "featured": true,
-   "cover": "illustration:robotic-arm",
-   "summary": "A multi-axis robotic arm for pick-and-place work.",
-   "date": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "wro-national-championship-2026-protector-of-heritage-sites",
    "title": "WRO National Championship 2026 (Protector of Heritage Sites)",
    "categories": [
@@ -777,6 +759,24 @@ window.SITE_CONTENT = {
      "title": "water level controller"
     }
    ],
+   "links": []
+  },
+  {
+   "id": "industrial-robotic-arm",
+   "title": "Industrial Robotic ARM",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "Control | Kinematics | Embedded",
+   "featured": true,
+   "cover": "illustration:robotic-arm",
+   "summary": "A multi-axis robotic arm for pick-and-place work.",
+   "date": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
    "links": []
   },
   {
