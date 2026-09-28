@@ -527,6 +527,25 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
+   "id": "kinetic-wall-project",
+   "title": "Kinetic Wall Project  ",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": true,
+   "cover": "assets/uploads/kinetic-wall-project-cover-mulomsh2pgm.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "water-bottle-filling-system",
    "title": "Fully Automatic Water Bottle Filling System",
    "categories": [
@@ -556,14 +575,108 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
-   "id": "kinetic-wall-project",
-   "title": "Kinetic Wall Project  ",
+   "id": "industrial-robotic-arm",
+   "title": "Industrial Robotic ARM",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "Control | Kinematics | Embedded",
+   "featured": false,
+   "cover": "illustration:robotic-arm",
+   "summary": "A multi-axis robotic arm for pick-and-place work.",
+   "date": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "smart-traffic-light-project",
+   "title": "Smart Traffic Light Project ",
    "categories": [
     "robotics"
    ],
    "tags": "",
-   "featured": true,
-   "cover": "assets/uploads/kinetic-wall-project-cover-mulomsh2pgm.webp",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "lake-cleaning-robot",
+   "title": "Lake Cleaning Robot",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "my-first-plc-project",
+   "title": "My First PLC Project",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "robotic-arm-project",
+   "title": "Robotic Arm Project",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "pid-line-follower-robot",
+   "title": "PID Line Follower robot",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
    "summary": "",
    "date": "",
    "role": "",
@@ -580,6 +693,25 @@ window.SITE_CONTENT = {
    "categories": [
     "robotics",
     "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "small-humanoid-robot",
+   "title": "Small Humanoid Robot",
+   "categories": [
+    "robotics"
    ],
    "tags": "",
    "featured": false,
@@ -778,24 +910,6 @@ window.SITE_CONTENT = {
      "title": "water level controller"
     }
    ],
-   "links": []
-  },
-  {
-   "id": "industrial-robotic-arm",
-   "title": "Industrial Robotic ARM",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "Control | Kinematics | Embedded",
-   "featured": true,
-   "cover": "illustration:robotic-arm",
-   "summary": "A multi-axis robotic arm for pick-and-place work.",
-   "date": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
    "links": []
   },
   {
