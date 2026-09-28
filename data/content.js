@@ -468,6 +468,112 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
+   "id": "humanoid-robot-nikki",
+   "title": "Humanoid Robot (Nikki)",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "AI | Robotics | Human Interaction",
+   "featured": true,
+   "cover": "assets/uploads/humanoid-robot-nikki-cover-mu55cxj8j55.webp",
+   "summary": "A humanoid robot built for natural human interaction.",
+   "date": "2025",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4goutlkec.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4goutlkec-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gotya5ye.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotya5ye-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gou41b1o.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gou41b1o-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gouoinln.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouoinln-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d.webp",
+     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/F4oDHKbhNaI?feature=share",
+     "title": "robot shorts"
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "water-bottle-filling-system",
+   "title": "Fully Automatic Water Bottle Filling System",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "Automation | PLC | Sensors",
+   "featured": true,
+   "cover": "assets/img/project-bottle-filling.webp",
+   "summary": "A PLC and sensor driven bottle filling line that runs without manual steps.",
+   "date": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/water-bottle-filling-system-mu556tzivgb.webp",
+     "thumb": "assets/uploads/water-bottle-filling-system-mu556tzivgb-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/water-bottle-filling-system-mu556hzgf6t.webp",
+     "thumb": "assets/uploads/water-bottle-filling-system-mu556hzgf6t-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "industrial-robotic-arm",
+   "title": "Industrial Robotic ARM",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "Control | Kinematics | Embedded",
+   "featured": true,
+   "cover": "illustration:robotic-arm",
+   "summary": "A multi-axis robotic arm for pick-and-place work.",
+   "date": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "wro-national-championship-2026-protector-of-heritage-sites",
    "title": "WRO National Championship 2026 (Protector of Heritage Sites)",
    "categories": [
@@ -645,94 +751,6 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
-   "id": "humanoid-robot-nikki",
-   "title": "Humanoid Robot (Nikki)",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "AI | Robotics | Human Interaction",
-   "featured": true,
-   "cover": "assets/uploads/humanoid-robot-nikki-cover-mu55cxj8j55.webp",
-   "summary": "A humanoid robot built for natural human interaction.",
-   "date": "2025",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4goutlkec.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4goutlkec-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gp3yiasd-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotqlchi-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gotya5ye.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gotya5ye-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gou41b1o.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gou41b1o-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gouoinln.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouoinln-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d.webp",
-     "thumb": "assets/uploads/humanoid-robot-nikki-mu4gouybi2d-t.webp",
-     "caption": ""
-    }
-   ],
-   "videos": [
-    {
-     "url": "https://youtube.com/shorts/F4oDHKbhNaI?feature=share",
-     "title": "robot shorts"
-    }
-   ],
-   "links": []
-  },
-  {
-   "id": "water-bottle-filling-system",
-   "title": "Fully Automatic Water Bottle Filling System",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "Automation | PLC | Sensors",
-   "featured": true,
-   "cover": "assets/img/project-bottle-filling.webp",
-   "summary": "A PLC and sensor driven bottle filling line that runs without manual steps.",
-   "date": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [
-    {
-     "src": "assets/uploads/water-bottle-filling-system-mu556tzivgb.webp",
-     "thumb": "assets/uploads/water-bottle-filling-system-mu556tzivgb-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/water-bottle-filling-system-mu556hzgf6t.webp",
-     "thumb": "assets/uploads/water-bottle-filling-system-mu556hzgf6t-t.webp",
-     "caption": ""
-    }
-   ],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "water-level-controller",
    "title": "Water Level Controller",
    "categories": [
@@ -759,24 +777,6 @@ window.SITE_CONTENT = {
      "title": "water level controller"
     }
    ],
-   "links": []
-  },
-  {
-   "id": "industrial-robotic-arm",
-   "title": "Industrial Robotic ARM",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "Control | Kinematics | Embedded",
-   "featured": true,
-   "cover": "illustration:robotic-arm",
-   "summary": "A multi-axis robotic arm for pick-and-place work.",
-   "date": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
    "links": []
   },
   {
