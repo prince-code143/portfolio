@@ -491,7 +491,6 @@ window.SITE_CONTENT = {
    "id": "wro-2026-udms",
    "title": "WRO Regional Championship 2026 (Protector of Heritage Sites)",
    "categories": [
-    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -531,7 +530,6 @@ window.SITE_CONTENT = {
    "id": "wro-2026-hero",
    "title": "WRO Regional Championship 2026 (Museum Story Teller)",
    "categories": [
-    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -571,7 +569,6 @@ window.SITE_CONTENT = {
    "id": "wro-2025-marshal-green-house",
    "title": "WRO Regional Championship 2025 (Marshal green house)",
    "categories": [
-    "robotics",
     "competitions"
    ],
    "tags": "",
