@@ -184,6 +184,14 @@ window.SITE_CONTENT = {
    "period": "March 2021 - May 2024 (3 years 3 months)",
    "location": "Bhilwara",
    "logo": "assets/img/logo-gorgeous.webp"
+  },
+  {
+   "company": "Statue Of Belief",
+   "role": "Contract  Engineer",
+   "current": false,
+   "period": "jan 2024",
+   "location": "Nathdwara ,Udaipur(raj.)",
+   "logo": "assets/uploads/logo-muljvoyfijl.webp"
   }
  ],
  "stats": [
