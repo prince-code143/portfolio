@@ -152,7 +152,7 @@ window.SITE_CONTENT = {
   {
    "id": "competitions",
    "name": "Competition Participant",
-   "subtitle": "5+ Projects",
+   "subtitle": "",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M18 4V2H6v2H2v3a5 5 0 0 0 4.4 5 6 6 0 0 0 4.6 3.9V19H7.5v2h9v-2H13v-4.1a6 6 0 0 0 4.6-3.9A5 5 0 0 0 22 7V4Zm-14 3V6h2v4.2A3 3 0 0 1 4 7Zm16 0a3 3 0 0 1-2 2.8V6h2Z\"></path></svg>"
   },
   {
@@ -262,6 +262,25 @@ window.SITE_CONTENT = {
   "github": "https://github.com/prince-code143/"
  },
  "projects": [
+  {
+   "id": "my-portfolio-website",
+   "title": "My Portfolio Website ",
+   "categories": [
+    "software"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/my-portfolio-website-cover-muktgjsc8yb.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
   {
    "id": "wro-national-championship-2026-protector-of-heritage-sites",
    "title": "WRO National Championship 2026 (Protector of Heritage Sites)",
@@ -588,7 +607,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "user-interactive-system",
-   "title": "User Interactive System (Software)",
+   "title": "Motor Control Project Using IOT",
    "categories": [
     "software"
    ],
