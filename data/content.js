@@ -471,6 +471,7 @@ window.SITE_CONTENT = {
    "id": "wro-national-championship-2026-protector-of-heritage-sites",
    "title": "WRO National Championship 2026 (Protector of Heritage Sites)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -490,6 +491,7 @@ window.SITE_CONTENT = {
    "id": "wro-2026-udms",
    "title": "WRO Regional Championship 2026 (Protector of Heritage Sites)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -509,6 +511,7 @@ window.SITE_CONTENT = {
    "id": "new-project-utg1",
    "title": "WRO National Championship 2026 (Museum Story Teller)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -528,6 +531,7 @@ window.SITE_CONTENT = {
    "id": "wro-2026-hero",
    "title": "WRO Regional Championship 2026 (Museum Story Teller)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -547,6 +551,7 @@ window.SITE_CONTENT = {
    "id": "wro-national-championship-2025-marshal-green-house",
    "title": "WRO National Championship 2025 (Marshal green house)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -566,6 +571,7 @@ window.SITE_CONTENT = {
    "id": "wro-2025-marshal-green-house",
    "title": "WRO Regional Championship 2025 (Marshal green house)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -585,6 +591,7 @@ window.SITE_CONTENT = {
    "id": "wro-2024-smart-irrigation-system",
    "title": "WRO Regional Championship 2024 (Smart irrigation system)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -604,6 +611,7 @@ window.SITE_CONTENT = {
    "id": "google-office-multi-level-farming-project",
    "title": "Google Office (Multi Level Farming project)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
@@ -623,6 +631,7 @@ window.SITE_CONTENT = {
    "id": "sangam-university-open-robotic-competition",
    "title": "Sangam University(Open Robotic Competition)",
    "categories": [
+    "robotics",
     "competitions"
    ],
    "tags": "",
