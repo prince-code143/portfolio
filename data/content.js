@@ -277,7 +277,18 @@ window.SITE_CONTENT = {
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/my-portfolio-website-mulj5bv2qel.webp",
+     "thumb": "assets/uploads/my-portfolio-website-mulj5bv2qel-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/my-portfolio-website-mulj5cbvo3t.webp",
+     "thumb": "assets/uploads/my-portfolio-website-mulj5cbvo3t-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [],
    "links": []
   },
