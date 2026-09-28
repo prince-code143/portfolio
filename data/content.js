@@ -178,20 +178,20 @@ window.SITE_CONTENT = {
    "logo": "assets/img/logo-nimo.webp"
   },
   {
-   "company": "Gorgeous Home Automation",
-   "role": "Director",
-   "current": false,
-   "period": "March 2021 - May 2024 (3 years 3 months)",
-   "location": "Bhilwara",
-   "logo": "assets/img/logo-gorgeous.webp"
-  },
-  {
    "company": "Statue Of Belief",
    "role": "Contract  Engineer",
    "current": false,
-   "period": "jan 2024",
+   "period": "February 2024 - may 2024 (3 months)",
    "location": "Nathdwara ,Udaipur(raj.)",
    "logo": "assets/uploads/logo-muljvoyfijl.webp"
+  },
+  {
+   "company": "Gorgeous Home Automation",
+   "role": "Director",
+   "current": false,
+   "period": "March 2021 - February 2024 (3 years)",
+   "location": "Bhilwara",
+   "logo": "assets/img/logo-gorgeous.webp"
   }
  ],
  "stats": [
