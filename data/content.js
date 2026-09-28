@@ -271,6 +271,173 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "nimo-labs-india-pvt-ltd",
+   "title": "Nimo Labs India PVT  LTD",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "smart-study-international-school",
+   "title": "Smart Study International school",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "geetanjali-institute-of-technical-studies-gits",
+   "title": "Geetanjali Institute of Technical Studies (GITS)",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "geetanjali-institute-of-technical-studies-gits-2",
+   "title": "Geetanjali Institute of Technical Studies (GITS)",
+   "categories": [],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "ss-polytechnic-college-2",
+   "title": "SS Polytechnic College",
+   "categories": [],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "ss-polytechnic-college",
+   "title": "SS Polytechnic College",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "pacific-polytechnic-college-2",
+   "title": "Pacific Polytechnic College",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "pacific-polytechnic-college",
+   "title": "Pacific Polytechnic College",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "vidya-school",
+   "title": "Vidya school",
+   "categories": [
+    "classes"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "my-portfolio-website",
    "title": "My Portfolio Website ",
    "categories": [
