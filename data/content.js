@@ -710,25 +710,6 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
-   "id": "small-humanoid-robot",
-   "title": "Small Humanoid Robot",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "wro-2026-udms",
    "title": "WRO Regional Championship 2026 (Protector of Heritage Sites)",
    "categories": [
@@ -831,6 +812,25 @@ window.SITE_CONTENT = {
    "categories": [
     "robotics",
     "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "small-humanoid-robot",
+   "title": "Small Humanoid Robot",
+   "categories": [
+    "robotics"
    ],
    "tags": "",
    "featured": false,
