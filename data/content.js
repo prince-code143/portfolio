@@ -272,7 +272,7 @@ window.SITE_CONTENT = {
  "projects": [
   {
    "id": "nimo-labs-india-pvt-ltd",
-   "title": "Nimo Labs India PVT  LTD",
+   "title": "Nimo Labs India PVT  LTD, Udaipur",
    "categories": [
     "classes"
    ],
@@ -291,7 +291,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "smart-study-international-school",
-   "title": "Smart Study International school",
+   "title": "Smart Study International school, Nathdwara, Udaipur",
    "categories": [
     "classes"
    ],
@@ -310,7 +310,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "geetanjali-institute-of-technical-studies-gits",
-   "title": "Geetanjali Institute of Technical Studies (GITS)",
+   "title": "Geetanjali Institute of Technical Studies (GITS), Udaipur",
    "categories": [
     "classes"
    ],
@@ -329,8 +329,10 @@ window.SITE_CONTENT = {
   },
   {
    "id": "geetanjali-institute-of-technical-studies-gits-2",
-   "title": "Geetanjali Institute of Technical Studies (GITS)",
-   "categories": [],
+   "title": "Geetanjali Institute of Technical Studies (GITS), Udaipur",
+   "categories": [
+    "classes"
+   ],
    "tags": "",
    "featured": false,
    "cover": "",
@@ -346,7 +348,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "ss-polytechnic-college-2",
-   "title": "SS Polytechnic College",
+   "title": "SS Polytechnic College, Udaipur",
    "categories": [],
    "tags": "",
    "featured": false,
@@ -363,7 +365,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "ss-polytechnic-college",
-   "title": "SS Polytechnic College",
+   "title": "SS Polytechnic College, Udaipur",
    "categories": [
     "classes"
    ],
@@ -382,7 +384,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "pacific-polytechnic-college-2",
-   "title": "Pacific Polytechnic College",
+   "title": "Pacific Polytechnic College, Udaipur",
    "categories": [
     "classes"
    ],
@@ -401,7 +403,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "pacific-polytechnic-college",
-   "title": "Pacific Polytechnic College",
+   "title": "Pacific Polytechnic College, Udaipur",
    "categories": [
     "classes"
    ],
@@ -420,7 +422,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "vidya-school",
-   "title": "Vidya school",
+   "title": "Udbhav Preschool , Udaipur",
    "categories": [
     "classes"
    ],
@@ -786,7 +788,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-national-championship-2025-marshal-green-house",
-   "title": "WRO National Championship 2025 (Marshal green house)",
+   "title": "WRO National Championship 2025 (Mars green house)",
    "categories": [
     "robotics",
     "competitions"
@@ -806,7 +808,7 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-2025-marshal-green-house",
-   "title": "WRO Regional Championship 2025 (Marshal green house)",
+   "title": "WRO Regional Championship 2025 (Mars green house)",
    "categories": [
     "competitions"
    ],
