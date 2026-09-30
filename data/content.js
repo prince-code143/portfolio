@@ -769,10 +769,67 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-national-championship-2025-marshal-green-house",
-   "title": "WRO National Championship 2025 (Mars green house)",
+   "title": "\\WRO National Championship 2025 (Mars green house)",
    "categories": [
     "robotics",
     "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "mars-colony-builder",
+   "title": "Mars Colony Builder",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "smart-parking-system",
+   "title": "Smart Parking System",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "piezo-electric-power-generator",
+   "title": "Piezo Electric Power Generator",
+   "categories": [
+    "robotics"
    ],
    "tags": "",
    "featured": false,
@@ -943,6 +1000,25 @@ window.SITE_CONTENT = {
    "cover": "illustration:dashboard",
    "summary": "A software dashboard for live monitoring and control of connected devices.",
    "date": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "hand-gesture-control-project",
+   "title": "Hand Gesture Control Project",
+   "categories": [
+    "software"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
