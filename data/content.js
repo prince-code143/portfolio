@@ -769,48 +769,10 @@ window.SITE_CONTENT = {
   },
   {
    "id": "wro-national-championship-2025-marshal-green-house",
-   "title": "\\WRO National Championship 2025 (Mars green house)",
+   "title": "WRO National Championship 2025 (Mars green house)",
    "categories": [
     "robotics",
     "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "mars-colony-builder",
-   "title": "Mars Colony Builder",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
-   "id": "smart-parking-system",
-   "title": "Smart Parking System",
-   "categories": [
-    "robotics"
    ],
    "tags": "",
    "featured": false,
@@ -924,10 +886,48 @@ window.SITE_CONTENT = {
   },
   {
    "id": "sangam-university-open-robotic-competition",
-   "title": "Sangam University(Open Robotic Competition)",
+   "title": "\\Sangam University(Open Robotic Competition)",
    "categories": [
     "robotics",
     "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "mars-colony-builder",
+   "title": "Mars Colony Builder",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
+   "id": "smart-parking-system",
+   "title": "Smart Parking System",
+   "categories": [
+    "robotics"
    ],
    "tags": "",
    "featured": false,
