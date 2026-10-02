@@ -1069,6 +1069,54 @@ window.SITE_CONTENT = {
    "gallery": [],
    "videos": [],
    "links": []
+  },
+  {
+   "id": "automatic-stair-light-smart-door-lock-project",
+   "title": "Automatic Stair Light + Smart Door Lock project",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/automatic-stair-light-smart-door-lock-project-cover-mur9gqr7vrk.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/KEkPudlV5ug",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "water-motor-automation",
+   "title": "water motor automation",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/new-project-hb3u-cover-mur9xy36g5h.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/qys6yPKS5HA",
+     "title": ""
+    }
+   ],
+   "links": []
   }
  ],
  "illustrations": {
