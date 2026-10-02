@@ -643,6 +643,30 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
+   "id": "robots-take-over-food-service",
+   "title": "Robots take over food service",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/_HYT-IMYCME",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
    "id": "my-first-plc-project",
    "title": "My First PLC Project",
    "categories": [
