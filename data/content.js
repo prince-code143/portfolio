@@ -650,7 +650,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/robots-take-over-food-service-cover-mur9amdxmcv.webp",
    "summary": "",
    "date": "",
    "role": "",
