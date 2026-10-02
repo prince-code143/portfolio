@@ -1122,7 +1122,6 @@ window.SITE_CONTENT = {
    "id": "hands-free-home-automation-using-alexa-voice-command",
    "title": "Hands Free Home Automation Using Alexa & voice command",
    "categories": [
-    "robotics",
     "home-automation"
    ],
    "tags": "",
@@ -1147,7 +1146,6 @@ window.SITE_CONTENT = {
    "id": "normal-tv-control-using-smartphone",
    "title": "Normal TV Control Using Smartphone",
    "categories": [
-    "robotics",
     "home-automation"
    ],
    "tags": "",
