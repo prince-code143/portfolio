@@ -1117,6 +1117,55 @@ window.SITE_CONTENT = {
     }
    ],
    "links": []
+  },
+  {
+   "id": "hands-free-home-automation-using-alexa-voice-command",
+   "title": "Hands Free Home Automation Using Alexa & voice command",
+   "categories": [
+    "robotics",
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/hands-free-home-automation-using-alexa-voice-command-cover-mura9lz72z7.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/9s0xBgr18RI",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "switch-automation-using-ir-sensor",
+   "title": "Switch Automation Using IR Sensor ",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/switch-automation-using-ir-sensor-cover-mura4vpfqep.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/4pDZU5nF_XY",
+     "title": ""
+    }
+   ],
+   "links": []
   }
  ],
  "illustrations": {
