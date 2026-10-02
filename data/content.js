@@ -271,31 +271,6 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
-   "id": "normal-tv-control-using-smartphone",
-   "title": "Normal TV Control Using Smartphone",
-   "categories": [
-    "robotics",
-    "home-automation"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "assets/uploads/normal-tv-control-using-smartphone-cover-murahxvffnx.webp",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [
-    {
-     "url": "https://youtu.be/bxbiegFWgUk",
-     "title": ""
-    }
-   ],
-   "links": []
-  },
-  {
    "id": "nimo-labs-india-pvt-ltd",
    "title": "Nimo Labs India PVT  LTD, Udaipur",
    "categories": [
@@ -1163,6 +1138,31 @@ window.SITE_CONTENT = {
    "videos": [
     {
      "url": "https://youtu.be/9s0xBgr18RI",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "normal-tv-control-using-smartphone",
+   "title": "Normal TV Control Using Smartphone",
+   "categories": [
+    "robotics",
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/normal-tv-control-using-smartphone-cover-murahxvffnx.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/bxbiegFWgUk",
      "title": ""
     }
    ],
