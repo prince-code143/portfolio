@@ -544,7 +544,12 @@ window.SITE_CONTENT = {
    "highlights": [],
    "tech": [],
    "gallery": [],
-   "videos": [],
+   "videos": [
+    {
+     "url": "",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
@@ -629,7 +634,12 @@ window.SITE_CONTENT = {
    "highlights": [],
    "tech": [],
    "gallery": [],
-   "videos": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/yhqzp-_IjQ8?si=mnyFe3nE3LWP8IKK",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
@@ -667,7 +677,12 @@ window.SITE_CONTENT = {
    "highlights": [],
    "tech": [],
    "gallery": [],
-   "videos": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/3jTO4M02zM4?si=fqmcDiplZBi5pGVl",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
@@ -842,7 +857,12 @@ window.SITE_CONTENT = {
    "highlights": [],
    "tech": [],
    "gallery": [],
-   "videos": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/cirfsNCCCXI?si=j79kFMb_sYKptwEM",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
