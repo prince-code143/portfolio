@@ -140,19 +140,19 @@ window.SITE_CONTENT = {
   {
    "id": "robotics",
    "name": "Robotics Projects",
-   "subtitle": "20+ Projects",
+   "subtitle": "HighLight Robotic Projects l,ve Made",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><circle cx=\"18\" cy=\"6\" r=\"2.6\"></circle><circle cx=\"12.4\" cy=\"10.4\" r=\"2\"></circle><path d=\"M4 20h9v-1.6a4.5 4.5 0 0 0-9 0Zm4.5-4.4 3.2-3.6 1.6 1.4-3.2 3.6Z\"></path><path d=\"M6.5 20h4v1.6h-4Z\"></path></svg>"
   },
   {
    "id": "home-automation",
    "name": "Home Automation Projects",
-   "subtitle": "",
+   "subtitle": "Almost All My YouTube Videos Are in it",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M12 3 2.5 11h2.7v9h5.3v-5.6h3V20h5.3v-9h2.7Z\"></path></svg>"
   },
   {
    "id": "competitions",
    "name": "Competition Participant",
-   "subtitle": "",
+   "subtitle": "Competition Project Made By Me",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M18 4V2H6v2H2v3a5 5 0 0 0 4.4 5 6 6 0 0 0 4.6 3.9V19H7.5v2h9v-2H13v-4.1a6 6 0 0 0 4.6-3.9A5 5 0 0 0 22 7V4Zm-14 3V6h2v4.2A3 3 0 0 1 4 7Zm16 0a3 3 0 0 1-2 2.8V6h2Z\"></path></svg>"
   },
   {
@@ -164,7 +164,7 @@ window.SITE_CONTENT = {
   {
    "id": "software",
    "name": "Software Projects",
-   "subtitle": "6+ Projects",
+   "subtitle": "Software I Created",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><rect height=\"14\" rx=\"2.4\" width=\"20\" x=\"2\" y=\"4\"></rect><path d=\"M9 8.4 6 11.4l3 3 1.3-1.3-1.7-1.7 1.7-1.7Zm6 0-1.3 1.3 1.7 1.7-1.7 1.7L15 14.4l3-3Z\" fill=\"#fff\"></path><path d=\"M7 20h10v1.4H7Z\"></path></svg>"
   }
  ],
