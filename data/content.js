@@ -1030,7 +1030,12 @@ window.SITE_CONTENT = {
    "highlights": [],
    "tech": [],
    "gallery": [],
-   "videos": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/KEkPudlV5ug",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
