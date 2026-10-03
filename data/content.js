@@ -271,6 +271,54 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "basement-motor-automation",
+   "title": "Basement Motor Automation",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/basement-motor-automation-cover-mury3048sk0.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/uKdWnAlR2jc?si=Dx21_9PPjkXWhGWQ",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "staircases-light-automation",
+   "title": "Staircases light automation",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/QNHo7tWjwJA?si=8wlJeEvmA-Uxx8qc",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
    "id": "nimo-labs-india-pvt-ltd",
    "title": "Nimo Labs India PVT  LTD, Udaipur",
    "categories": [
