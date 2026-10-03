@@ -146,7 +146,7 @@ window.SITE_CONTENT = {
   {
    "id": "home-automation",
    "name": "Home Automation Projects",
-   "subtitle": "8+ Projects",
+   "subtitle": "",
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"M12 3 2.5 11h2.7v9h5.3v-5.6h3V20h5.3v-9h2.7Z\"></path></svg>"
   },
   {
