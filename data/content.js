@@ -1032,7 +1032,7 @@ window.SITE_CONTENT = {
    "gallery": [],
    "videos": [
     {
-     "url": "https://youtu.be/KEkPudlV5ug",
+     "url": "https://youtu.be/9s0xBgr18RI",
      "title": ""
     }
    ],
@@ -1141,7 +1141,7 @@ window.SITE_CONTENT = {
    "gallery": [],
    "videos": [
     {
-     "url": "https://youtu.be/9s0xBgr18RI",
+     "url": "https://youtube.com/shorts/BgWBVj9Q95k?si=ZQ91U-D5q0hPRWUs",
      "title": ""
     }
    ],
