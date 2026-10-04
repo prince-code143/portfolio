@@ -271,6 +271,30 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "amazing-tv-background-light-automation",
+   "title": "Amazing TV Background Light automation",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/amazing-tv-background-light-automation-cover-muu62hnomd6.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/n3ohRbfQfeQ",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
    "id": "nimo-labs-india-pvt-ltd",
    "title": "Nimo Labs India PVT  LTD, Udaipur",
    "categories": [
@@ -703,7 +727,12 @@ window.SITE_CONTENT = {
    "highlights": [],
    "tech": [],
    "gallery": [],
-   "videos": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/XSHTr-SEzag",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
@@ -714,7 +743,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/robotic-arm-project-cover-muu5l5hwy33.webp",
    "summary": "",
    "date": "",
    "role": "",
