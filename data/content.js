@@ -696,7 +696,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "assets/uploads/robots-take-over-food-service-cover-mur9amdxmcv.webp",
+   "cover": "assets/uploads/robots-take-over-food-service-cover-muu95w2toh9.webp",
    "summary": "",
    "date": "",
    "role": "",
@@ -707,6 +707,11 @@ window.SITE_CONTENT = {
     {
      "src": "assets/uploads/robots-take-over-food-service-muu7934djgw.webp",
      "thumb": "assets/uploads/robots-take-over-food-service-muu7934djgw-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/robots-take-over-food-service-muu96ohnb3v.webp",
+     "thumb": "assets/uploads/robots-take-over-food-service-muu96ohnb3v-t.webp",
      "caption": ""
     }
    ],
