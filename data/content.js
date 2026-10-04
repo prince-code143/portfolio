@@ -1033,7 +1033,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "IoT | App Control | Real-time",
    "featured": true,
-   "cover": "assets/uploads/home-automation-cover-mutu89p02xa.webp",
+   "cover": "illustration:home-automation",
    "summary": "Whole-home control of lights, fans, AC and locks from a phone app.",
    "date": "",
    "description": "",
