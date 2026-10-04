@@ -1174,6 +1174,16 @@ window.SITE_CONTENT = {
      "src": "assets/uploads/user-interactive-system-muu7whbcrh1.webp",
      "thumb": "assets/uploads/user-interactive-system-muu7whbcrh1-t.webp",
      "caption": ""
+    },
+    {
+     "src": "assets/uploads/user-interactive-system-muu8n5riyy7.webp",
+     "thumb": "assets/uploads/user-interactive-system-muu8n5riyy7-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/user-interactive-system-muu8n60n6z1.webp",
+     "thumb": "assets/uploads/user-interactive-system-muu8n60n6z1-t.webp",
+     "caption": ""
     }
    ],
    "videos": [
