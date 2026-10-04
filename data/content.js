@@ -1005,6 +1005,16 @@ window.SITE_CONTENT = {
      "src": "assets/uploads/water-level-controller-mu5dg4apq14.webp",
      "thumb": "assets/uploads/water-level-controller-mu5dg4apq14-t.webp",
      "caption": ""
+    },
+    {
+     "src": "assets/uploads/water-level-controller-mutshf46eep.webp",
+     "thumb": "assets/uploads/water-level-controller-mutshf46eep-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/water-level-controller-mutshew239y.webp",
+     "thumb": "assets/uploads/water-level-controller-mutshew239y-t.webp",
+     "caption": ""
     }
    ],
    "videos": [
