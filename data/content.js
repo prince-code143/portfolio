@@ -1033,13 +1033,18 @@ window.SITE_CONTENT = {
    ],
    "tags": "IoT | App Control | Real-time",
    "featured": true,
-   "cover": "assets/uploads/home-automation-mutsjif13uq.webp",
+   "cover": "assets/uploads/home-automation-cover-mutu89p02xa.webp",
    "summary": "Whole-home control of lights, fans, AC and locks from a phone app.",
    "date": "",
    "description": "",
    "highlights": [],
    "tech": [],
    "gallery": [
+    {
+     "src": "assets/uploads/home-automation-mutu8dwfbmf.webp",
+     "thumb": "assets/uploads/home-automation-mutu8dwfbmf-t.webp",
+     "caption": ""
+    },
     {
      "src": "assets/uploads/home-automation-mutsjil2lx2.webp",
      "thumb": "assets/uploads/home-automation-mutsjil2lx2-t.webp",
