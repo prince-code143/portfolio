@@ -1346,6 +1346,30 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
+   "id": "control-all-the-lights-fans-and-tvs-in-your-home-from-anywhe",
+   "title": "Control all the lights, fans, and TVs in your home from anywhere using your smartphone",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/control-all-the-lights-fans-and-tvs-in-your-home-from-anywhe-muu8k94crm4.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/a87pY74Gu9g",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
    "id": "smart-home-theatre-automation",
    "title": "Smart Home Theatre Automation ",
    "categories": [
@@ -1495,30 +1519,6 @@ window.SITE_CONTENT = {
    "videos": [
     {
      "url": "https://youtube.com/shorts/JMbMHel5D2I",
-     "title": ""
-    }
-   ],
-   "links": []
-  },
-  {
-   "id": "control-all-the-lights-fans-and-tvs-in-your-home-from-anywhe",
-   "title": "Control all the lights, fans, and TVs in your home from anywhere using your smartphone",
-   "categories": [
-    "home-automation"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "assets/uploads/control-all-the-lights-fans-and-tvs-in-your-home-from-anywhe-muu8k94crm4.webp",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [
-    {
-     "url": "https://youtu.be/a87pY74Gu9g",
      "title": ""
     }
    ],
