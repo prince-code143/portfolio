@@ -112,7 +112,7 @@ window.SITE_CONTENT = {
  "sections": {
   "projects": {
    "title": "Featured Projects",
-   "subtitle": "Some of my best work. Explore more to see all 60+ projects.",
+   "subtitle": "Some of my best work. Explore more to see all 55+ projects.",
    "linkLabel": "View All Projects",
    "featuredCount": 6
   },
@@ -197,7 +197,7 @@ window.SITE_CONTENT = {
  "stats": [
   {
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"m12 2 10 5-10 5L2 7Z\" opacity=\".95\"></path><path d=\"m2 12 10 5 10-5-2.4-1.2L12 14.5 4.4 10.8Z\"></path><path d=\"m2 16.6 10 5 10-5-2.4-1.2L12 19.1l-7.6-3.7Z\"></path></svg>",
-   "value": "60",
+   "value": "55",
    "suffix": "+",
    "label": "Projects",
    "sub": "And growing..."
