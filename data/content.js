@@ -523,7 +523,7 @@ window.SITE_CONTENT = {
    "videos": [
     {
      "url": "https://youtube.com/shorts/F4oDHKbhNaI?feature=share",
-     "title": "robot shorts"
+     "title": ""
     }
    ],
    "links": []
