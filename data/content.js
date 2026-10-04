@@ -924,7 +924,18 @@ window.SITE_CONTENT = {
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/wro-2024-smart-irrigation-system-muu7i86reze.webp",
+     "thumb": "assets/uploads/wro-2024-smart-irrigation-system-muu7i86reze-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/wro-2024-smart-irrigation-system-muu7i8gj4vg.webp",
+     "thumb": "assets/uploads/wro-2024-smart-irrigation-system-muu7i8gj4vg-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [
     {
      "url": "https://youtube.com/shorts/cirfsNCCCXI?si=j79kFMb_sYKptwEM",
@@ -1375,6 +1386,54 @@ window.SITE_CONTENT = {
    "videos": [
     {
      "url": "https://youtube.com/shorts/t-ovuYXbAoQ",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "door-safety-smartphone-alert",
+   "title": "door safety & smartphone alert",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/door-safety-smartphone-alert-cover-muu7rnnm4aq.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/gm5ugxEIIR0",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "curtains-controlled-by-mobile-phone",
+   "title": " Curtains Controlled By Mobile Phone",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/curtains-controlled-by-mobile-phone-cover-muu7n2suayq.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/JMbMHel5D2I",
      "title": ""
     }
    ],
