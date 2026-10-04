@@ -597,13 +597,13 @@ window.SITE_CONTENT = {
    "tech": [],
    "gallery": [
     {
-     "src": "assets/uploads/industrial-robotic-arm-mutxbao5vmo.webp",
-     "thumb": "assets/uploads/industrial-robotic-arm-mutxbao5vmo-t.webp",
+     "src": "assets/uploads/industrial-robotic-arm-mutxbawzrtz.webp",
+     "thumb": "assets/uploads/industrial-robotic-arm-mutxbawzrtz-t.webp",
      "caption": ""
     },
     {
-     "src": "assets/uploads/industrial-robotic-arm-mutxbawzrtz.webp",
-     "thumb": "assets/uploads/industrial-robotic-arm-mutxbawzrtz-t.webp",
+     "src": "assets/uploads/industrial-robotic-arm-mutxbao5vmo.webp",
+     "thumb": "assets/uploads/industrial-robotic-arm-mutxbao5vmo-t.webp",
      "caption": ""
     },
     {
@@ -1054,7 +1054,7 @@ window.SITE_CONTENT = {
    ],
    "tags": "IoT | App Control | Real-time",
    "featured": true,
-   "cover": "assets/uploads/home-automation-mutsji8dx31.webp",
+   "cover": "illustration:home-automation",
    "summary": "Whole-home control of lights, fans, AC and locks from a phone app.",
    "date": "",
    "description": "",
