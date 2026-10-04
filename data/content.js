@@ -271,6 +271,23 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
+   "id": "new-project-xgvj",
+   "title": "New project",
+   "categories": [],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
+   "links": []
+  },
+  {
    "id": "nimo-labs-india-pvt-ltd",
    "title": "Nimo Labs India PVT  LTD, Udaipur",
    "categories": [
@@ -637,6 +654,30 @@ window.SITE_CONTENT = {
    "tech": [],
    "gallery": [],
    "videos": [],
+   "links": []
+  },
+  {
+   "id": "control-all-the-lights-fans-and-tvs-in-your-home-from-anywhe",
+   "title": "Control all the lights, fans, and TVs in your home from anywhere using your smartphone",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/control-all-the-lights-fans-and-tvs-in-your-home-from-anywhe-muu8k94crm4.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/a87pY74Gu9g",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
@@ -1397,6 +1438,30 @@ window.SITE_CONTENT = {
    "videos": [
     {
      "url": "https://youtube.com/shorts/t-ovuYXbAoQ",
+     "title": ""
+    }
+   ],
+   "links": []
+  },
+  {
+   "id": "smart-cctv-camera",
+   "title": "Smart CCTV Camera",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtu.be/1noA6_XDsng",
      "title": ""
     }
    ],
