@@ -21,7 +21,7 @@ window.SITE_CONTENT = {
   "linkedinUrl": "https://linkedin.com/in/prince-sukhwal-b41355315",
   "primaryLabel": "View My Projects",
   "resumeLabel": "Download Resume",
-  "resumeUrl": "assets/uploads/prince-sukhwal-resume-mu4h6ccjl44.pdf",
+  "resumeUrl": "assets/uploads/prince-sukhwal-resume-mutqhapibn7.pdf",
   "background": "assets/img/hero-bg.webp",
   "photo": "assets/img/hero-person.webp",
   "quote": "Technology is more powerful when it improves people's everyday lives.",
