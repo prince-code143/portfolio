@@ -197,7 +197,7 @@ window.SITE_CONTENT = {
  "stats": [
   {
    "icon": "<svg fill=\"currentColor\" height=\"30\" viewBox=\"0 0 24 24\" width=\"30\"><path d=\"m12 2 10 5-10 5L2 7Z\" opacity=\".95\"></path><path d=\"m2 12 10 5 10-5-2.4-1.2L12 14.5 4.4 10.8Z\"></path><path d=\"m2 16.6 10 5 10-5-2.4-1.2L12 19.1l-7.6-3.7Z\"></path></svg>",
-   "value": "55",
+   "value": "60",
    "suffix": "+",
    "label": "Projects",
    "sub": "And growing..."
