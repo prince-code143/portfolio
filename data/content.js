@@ -276,15 +276,31 @@ window.SITE_CONTENT = {
    "categories": [],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/new-project-xgvj-cover-muu8tn0z6oy.webp",
    "summary": "",
    "date": "",
    "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
-   "videos": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/new-project-xgvj-muu8ttjrjen.webp",
+     "thumb": "assets/uploads/new-project-xgvj-muu8ttjrjen-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/new-project-xgvj-muu8ttrs7xw.webp",
+     "thumb": "assets/uploads/new-project-xgvj-muu8ttrs7xw-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://youtu.be/1noA6_XDsng",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
