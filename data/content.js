@@ -271,39 +271,6 @@ window.SITE_CONTENT = {
  },
  "projects": [
   {
-   "id": "new-project-xgvj",
-   "title": "New project",
-   "categories": [],
-   "tags": "",
-   "featured": false,
-   "cover": "assets/uploads/new-project-xgvj-cover-muu8tn0z6oy.webp",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [
-    {
-     "src": "assets/uploads/new-project-xgvj-muu8ttjrjen.webp",
-     "thumb": "assets/uploads/new-project-xgvj-muu8ttjrjen-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/new-project-xgvj-muu8ttrs7xw.webp",
-     "thumb": "assets/uploads/new-project-xgvj-muu8ttrs7xw-t.webp",
-     "caption": ""
-    }
-   ],
-   "videos": [
-    {
-     "url": "https://youtu.be/1noA6_XDsng",
-     "title": ""
-    }
-   ],
-   "links": []
-  },
-  {
    "id": "nimo-labs-india-pvt-ltd",
    "title": "Nimo Labs India PVT  LTD, Udaipur",
    "categories": [
@@ -1477,14 +1444,25 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/smart-cctv-camera-cover-muu8y72ue89.webp",
    "summary": "",
    "date": "",
    "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/smart-cctv-camera-muu8yf2ic2z.webp",
+     "thumb": "assets/uploads/smart-cctv-camera-muu8yf2ic2z-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/smart-cctv-camera-muu8yfaerd7.webp",
+     "thumb": "assets/uploads/smart-cctv-camera-muu8yfaerd7-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [
     {
      "url": "https://youtu.be/1noA6_XDsng",
