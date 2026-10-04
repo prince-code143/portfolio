@@ -1,7 +1,7 @@
 window.SITE_CONTENT = {
  "site": {
   "title": "Prince Sukhwal — Automate a Smarter Tomorrow",
-  "description": "Portfolio of Prince Sukhwal — Home Automation Expert, Embedded Developer and Robotics Trainer. 35+ robotics, automation, IoT and software projects.",
+  "description": "Portfolio of Prince Sukhwal — Home Automation Expert, Embedded Developer and Robotics Trainer. 45+ robotics, automation, IoT and software projects.",
   "logoFirst": "P",
   "logoSecond": "S",
   "name": "Prince Sukhwal",
@@ -227,7 +227,7 @@ window.SITE_CONTENT = {
  "contact": {
   "email": "sukhwalprince3@gmail.com",
   "location": "Bhilwara, Rajasthan, India",
-  "formEndpoint": "https://share.google/buepuR97l31ofq8RP",
+  "formEndpoint": "https://formspree.io/f/xaenrrky",
   "topics": [
    {
     "label": "Home Automation",
