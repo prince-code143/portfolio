@@ -1070,21 +1070,6 @@ window.SITE_CONTENT = {
      "src": "assets/uploads/home-automation-mutu8dwfbmf.webp",
      "thumb": "assets/uploads/home-automation-mutu8dwfbmf-t.webp",
      "caption": ""
-    },
-    {
-     "src": "assets/uploads/home-automation-mutsjil2lx2.webp",
-     "thumb": "assets/uploads/home-automation-mutsjil2lx2-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/home-automation-mutsji0nvq7.webp",
-     "thumb": "assets/uploads/home-automation-mutsji0nvq7-t.webp",
-     "caption": ""
-    },
-    {
-     "src": "assets/uploads/home-automation-mutsji8dx31.webp",
-     "thumb": "assets/uploads/home-automation-mutsji8dx31-t.webp",
-     "caption": ""
     }
    ],
    "videos": [
