@@ -640,31 +640,6 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
-   "id": "lake-cleaning-robot",
-   "title": "Lake Cleaning Robot",
-   "categories": [
-    "robotics",
-    "competitions"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "assets/uploads/lake-cleaning-robot-cover-muu77zsp48t.webp",
-   "summary": "Ajmer Zone's CBSE Science Exhibition was organized in Jaipur on 11-12 November. In this, 110 students from 70 schools presented their projects. In this, students Dhairyas and Anay of Neemo Lab Udaipur (city of districts) got first place with their project Lake Clean Robot and got selected for the national level. Which was made under the guidance of Neemo Lab's robotic trainer Prince Sukhwal, resident of Bhilwara and Mohit Maheshwari, Nitin Purohit. The entire video of the lake cleaning robot is on Prince Sukhwal's YouTube channel Gorgeous Home Automation. This lake cleaning robot will be seen successfully cleaning the lake in the coming time! Features of Lake Cleaning Robot: - 1. This robot is controlled by mobile for cleaning the surface. 2. This robot increases the oxygen level in the lake. 3. This robot sends the data of temperature, pH and oxygen level of the lake water to the mobile, which improves the quality of the lake.  4. It also sends data of environment's temperature and humanity to the mobile. In future, this entire project will be made autonomous.",
-   "date": "2024",
-   "role": "coach",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [
-    {
-     "url": "https://youtube.com/shorts/yhqzp-_IjQ8?si=mnyFe3nE3LWP8IKK",
-     "title": ""
-    }
-   ],
-   "links": []
-  },
-  {
    "id": "robots-take-over-food-service",
    "title": "Robots take over food service",
    "categories": [
@@ -966,6 +941,31 @@ window.SITE_CONTENT = {
    "tech": [],
    "gallery": [],
    "videos": [],
+   "links": []
+  },
+  {
+   "id": "lake-cleaning-robot",
+   "title": "Lake Cleaning Robot",
+   "categories": [
+    "robotics",
+    "competitions"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/lake-cleaning-robot-cover-muu77zsp48t.webp",
+   "summary": "Ajmer Zone's CBSE Science Exhibition was organized in Jaipur on 11-12 November. In this, 110 students from 70 schools presented their projects. In this, students Dhairyas and Anay of Neemo Lab Udaipur (city of districts) got first place with their project Lake Clean Robot and got selected for the national level. Which was made under the guidance of Neemo Lab's robotic trainer Prince Sukhwal, resident of Bhilwara and Mohit Maheshwari, Nitin Purohit. The entire video of the lake cleaning robot is on Prince Sukhwal's YouTube channel Gorgeous Home Automation. This lake cleaning robot will be seen successfully cleaning the lake in the coming time! Features of Lake Cleaning Robot: - 1. This robot is controlled by mobile for cleaning the surface. 2. This robot increases the oxygen level in the lake. 3. This robot sends the data of temperature, pH and oxygen level of the lake water to the mobile, which improves the quality of the lake.  4. It also sends data of environment's temperature and humanity to the mobile. In future, this entire project will be made autonomous.",
+   "date": "2024",
+   "role": "coach",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/yhqzp-_IjQ8?si=mnyFe3nE3LWP8IKK",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
