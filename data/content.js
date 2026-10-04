@@ -1128,8 +1128,19 @@ window.SITE_CONTENT = {
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
-   "videos": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/user-interactive-system-muu7whbcrh1.webp",
+     "thumb": "assets/uploads/user-interactive-system-muu7whbcrh1-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/2nGssBb2gQA",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
