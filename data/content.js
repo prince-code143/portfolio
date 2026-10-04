@@ -695,14 +695,25 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/my-first-plc-project-cover-muu66k12plz.webp",
    "summary": "",
    "date": "",
    "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/my-first-plc-project-muu66fih55j.webp",
+     "thumb": "assets/uploads/my-first-plc-project-muu66fih55j-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/my-first-plc-project-muu66f94nzt.webp",
+     "thumb": "assets/uploads/my-first-plc-project-muu66f94nzt-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [
     {
      "url": "https://youtube.com/shorts/XSHTr-SEzag",
