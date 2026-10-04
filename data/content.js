@@ -595,8 +595,29 @@ window.SITE_CONTENT = {
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
-   "videos": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/industrial-robotic-arm-mutxbao5vmo.webp",
+     "thumb": "assets/uploads/industrial-robotic-arm-mutxbao5vmo-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/industrial-robotic-arm-mutxbawzrtz.webp",
+     "thumb": "assets/uploads/industrial-robotic-arm-mutxbawzrtz-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/industrial-robotic-arm-mutxbb2jloe.webp",
+     "thumb": "assets/uploads/industrial-robotic-arm-mutxbb2jloe-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://youtu.be/w23XLG7JTKE",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
