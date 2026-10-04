@@ -1299,6 +1299,30 @@ window.SITE_CONTENT = {
     }
    ],
    "links": []
+  },
+  {
+   "id": "smart-home-theatre-automation",
+   "title": "Smart Home Theatre Automation ",
+   "categories": [
+    "home-automation"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "assets/uploads/smart-home-theatre-automation-cover-muu4t3ebhu2.webp",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [
+    {
+     "url": "https://youtube.com/shorts/o1XPCuBZCIo",
+     "title": ""
+    }
+   ],
+   "links": []
   }
  ],
  "illustrations": {
