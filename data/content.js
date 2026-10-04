@@ -112,7 +112,7 @@ window.SITE_CONTENT = {
  "sections": {
   "projects": {
    "title": "Featured Projects",
-   "subtitle": "Some of my best work. Explore more to see all 35+ projects.",
+   "subtitle": "Some of my best work. Explore more to see all 45+ projects.",
    "linkLabel": "View All Projects",
    "featuredCount": 6
   },
