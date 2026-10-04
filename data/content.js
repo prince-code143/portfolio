@@ -522,7 +522,7 @@ window.SITE_CONTENT = {
    ],
    "videos": [
     {
-     "url": "https://youtube.com/shorts/F4oDHKbhNaI?feature=share",
+     "url": "https://youtube.com/shorts/F4oDHKbhNaI?si=ZBA13oTtp8afXEwX",
      "title": ""
     }
    ],
