@@ -621,25 +621,6 @@ window.SITE_CONTENT = {
    "links": []
   },
   {
-   "id": "smart-traffic-light-project",
-   "title": "Smart Traffic Light Project ",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
-   "links": []
-  },
-  {
    "id": "robots-take-over-food-service",
    "title": "Robots take over food service",
    "categories": [
@@ -731,6 +712,25 @@ window.SITE_CONTENT = {
      "title": ""
     }
    ],
+   "links": []
+  },
+  {
+   "id": "smart-traffic-light-project",
+   "title": "Smart Traffic Light Project ",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
    "links": []
   },
   {
@@ -922,25 +922,6 @@ window.SITE_CONTENT = {
      "title": ""
     }
    ],
-   "links": []
-  },
-  {
-   "id": "small-humanoid-robot",
-   "title": "Small Humanoid Robot",
-   "categories": [
-    "robotics"
-   ],
-   "tags": "",
-   "featured": false,
-   "cover": "",
-   "summary": "",
-   "date": "",
-   "role": "",
-   "description": "",
-   "highlights": [],
-   "tech": [],
-   "gallery": [],
-   "videos": [],
    "links": []
   },
   {
@@ -1199,6 +1180,25 @@ window.SITE_CONTENT = {
      "title": ""
     }
    ],
+   "links": []
+  },
+  {
+   "id": "small-humanoid-robot",
+   "title": "Small Humanoid Robot",
+   "categories": [
+    "robotics"
+   ],
+   "tags": "",
+   "featured": false,
+   "cover": "",
+   "summary": "",
+   "date": "",
+   "role": "",
+   "description": "",
+   "highlights": [],
+   "tech": [],
+   "gallery": [],
+   "videos": [],
    "links": []
   },
   {
