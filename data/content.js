@@ -1068,14 +1068,40 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/smart-parking-system-cover-muyhbkqgic4.webp",
    "summary": "",
    "date": "",
    "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/smart-parking-system-muyhajeuwld.webp",
+     "thumb": "assets/uploads/smart-parking-system-muyhajeuwld-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/smart-parking-system-muyhajkfy8p.webp",
+     "thumb": "assets/uploads/smart-parking-system-muyhajkfy8p-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/smart-parking-system-muyhaizjn0z.webp",
+     "thumb": "assets/uploads/smart-parking-system-muyhaizjn0z-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/smart-parking-system-muyhajpfn3d.webp",
+     "thumb": "assets/uploads/smart-parking-system-muyhajpfn3d-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/smart-parking-system-muyhaj87e1f.webp",
+     "thumb": "assets/uploads/smart-parking-system-muyhaj87e1f-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [],
    "links": []
   },
