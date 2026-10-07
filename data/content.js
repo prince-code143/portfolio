@@ -958,35 +958,87 @@ window.SITE_CONTENT = {
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/google-office-multi-level-farming-project-cover-muxnpxfgurm.webp",
    "summary": "",
    "date": "",
    "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/google-office-multi-level-farming-project-muxnqf8ga7d.webp",
+     "thumb": "assets/uploads/google-office-multi-level-farming-project-muxnqf8ga7d-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/google-office-multi-level-farming-project-muxnqesz6gn.webp",
+     "thumb": "assets/uploads/google-office-multi-level-farming-project-muxnqesz6gn-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/google-office-multi-level-farming-project-muxnqfch1ay.webp",
+     "thumb": "assets/uploads/google-office-multi-level-farming-project-muxnqfch1ay-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/google-office-multi-level-farming-project-muxnqej5mk6.webp",
+     "thumb": "assets/uploads/google-office-multi-level-farming-project-muxnqej5mk6-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/google-office-multi-level-farming-project-muxnqf1x7jb.webp",
+     "thumb": "assets/uploads/google-office-multi-level-farming-project-muxnqf1x7jb-t.webp",
+     "caption": ""
+    }
+   ],
    "videos": [],
    "links": []
   },
   {
    "id": "sangam-university-open-robotic-competition",
-   "title": "\\Sangam University(Open Robotic Competition)",
+   "title": "Sangam University(Open Robotic Competition)",
    "categories": [
     "robotics",
     "competitions"
    ],
    "tags": "",
    "featured": false,
-   "cover": "",
+   "cover": "assets/uploads/sangam-university-open-robotic-competition-cover-muxnwzhol62.webp",
    "summary": "",
    "date": "",
    "role": "",
    "description": "",
    "highlights": [],
    "tech": [],
-   "gallery": [],
-   "videos": [],
+   "gallery": [
+    {
+     "src": "assets/uploads/sangam-university-open-robotic-competition-muxt55avryt.webp",
+     "thumb": "assets/uploads/sangam-university-open-robotic-competition-muxt55avryt-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/sangam-university-open-robotic-competition-muxnwoe027l.webp",
+     "thumb": "assets/uploads/sangam-university-open-robotic-competition-muxnwoe027l-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/sangam-university-open-robotic-competition-muxnwoj8i10.webp",
+     "thumb": "assets/uploads/sangam-university-open-robotic-competition-muxnwoj8i10-t.webp",
+     "caption": ""
+    },
+    {
+     "src": "assets/uploads/sangam-university-open-robotic-competition-muxnwoud9re.webp",
+     "thumb": "assets/uploads/sangam-university-open-robotic-competition-muxnwoud9re-t.webp",
+     "caption": ""
+    }
+   ],
+   "videos": [
+    {
+     "url": "https://youtu.be/gK4OXbEwqdg",
+     "title": ""
+    }
+   ],
    "links": []
   },
   {
